@@ -1,0 +1,21 @@
+.inputOtion {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 15px;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.inputOtion > h4 {
+  margin-left: 5px;
+  font-size: 15px;
+  font-weight: large;
+  color: gray;
+}
+
+.inputOtion:hover {
+  background-color: whitesmoke;
+  border-radius: 5px;
+  padding: 10px;
+}
